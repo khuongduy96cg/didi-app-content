@@ -1,4 +1,5 @@
 ---
+published: true
 slug: 'master-prose-components'
 title: 'Master prose components'
 description: 'meta description of the page'
