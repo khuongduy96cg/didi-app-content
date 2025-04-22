@@ -1,0 +1,76 @@
+[
+    {
+        "slug": "crew",
+        "word": "crew",
+        "phonetic": "/kruː/",
+        "audio": "https://example.com/audio/crew.mp3",
+        "partsOfSpeech": [
+            {
+                "partOfSpeech": "noun",
+                "meanings": [
+                    {
+                        "en": "a group of people who work together on a ship, plane, or other large vehicle",
+                        "vi": "một nhóm người làm việc cùng nhau trên tàu, máy bay, hoặc phương tiện lớn khác",
+                        "examples": [
+                            "The flight crew welcomed passengers aboard with warm smiles.",
+                            "The ship’s crew worked through the night to repair the damage."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "phrasalVerbs": [
+            {
+                "phrase": "crew up",
+                "meanings": [
+                    {
+                        "en": "to make a serious mistake or mess something up",
+                        "vi": "làm hỏng việc nghiêm trọng",
+                        "examples": [
+                            "He really crewed up that presentation yesterday.",
+                            "Don’t crew this up—we’ve only got one shot."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "synonyms": [
+            {
+                "slug": "team",
+                "synonym": "team"
+            },
+            {
+                "slug": "staff",
+                "synonym": "staff"
+            }
+        ],
+        "antonyms": [],
+        "idioms": [],
+        "collocations": [
+            {
+                "collocation": "a film crew",
+                "meanings": [
+                    {
+                        "en": "a group of people working on a movie set",
+                        "vi": "nhóm người làm việc trong đoàn làm phim",
+                        "examples": [
+                            "The film crew set up early to capture the sunrise scene."
+                        ]
+                    }
+                ]
+            },
+            {
+                "collocation": "cabin crew",
+                "meanings": [
+                    {
+                        "en": "the people who take care of passengers on an aircraft",
+                        "vi": "phi hành đoàn chăm sóc hành khách trên máy bay",
+                        "examples": [
+                            "The cabin crew gave us a safety demonstration before takeoff."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

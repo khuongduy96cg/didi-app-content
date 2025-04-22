@@ -1,0 +1,98 @@
+[
+    {
+        "slug": "abandon",
+        "word": "abandon",
+        "phonetic": "/əˈbæn.dən/",
+        "audio": "",
+        "partsOfSpeech": [
+            {
+                "partOfSpeech": "verb",
+                "meanings": [
+                    {
+                        "en": "to leave behind or give up",
+                        "vi": "từ bỏ, bỏ rơi",
+                        "examples": [
+                            "He abandoned his car in the snow."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "phrasalVerbs": [],
+        "synonyms": [
+            {
+                "slug": "forsake",
+                "synonym": "forsake"
+            }
+        ],
+        "antonyms": [
+            {
+                "slug": "keep",
+                "antonym": "keep"
+            }
+        ],
+        "idioms": [],
+        "collocations": [
+            {
+                "collocation": "abandon hope",
+                "meanings": [
+                    {
+                        "en": "to stop hoping for something",
+                        "vi": "từ bỏ hy vọng",
+                        "examples": [
+                            "He had abandoned all hope of being rescued."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "slug": "achieve",
+        "word": "achieve",
+        "phonetic": "/əˈtʃiːv/",
+        "audio": "",
+        "partsOfSpeech": [
+            {
+                "partOfSpeech": "verb",
+                "meanings": [
+                    {
+                        "en": "to successfully complete something or get a good result",
+                        "vi": "đạt được",
+                        "examples": [
+                            "She achieved her goal of becoming a doctor."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "phrasalVerbs": [],
+        "synonyms": [
+            {
+                "slug": "accomplish",
+                "synonym": "accomplish"
+            }
+        ],
+        "antonyms": [
+            {
+                "slug": "fail",
+                "antonym": "fail"
+            }
+        ],
+        "idioms": [],
+        "collocations": [
+            {
+                "collocation": "achieve success",
+                "meanings": [
+                    {
+                        "en": "to succeed in doing something",
+                        "vi": "đạt được thành công",
+                        "examples": [
+                            "He worked hard to achieve success."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

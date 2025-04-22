@@ -1,0 +1,50 @@
+[
+    {
+        "slug": "pride",
+        "word": "pride",
+        "phonetic": "/praɪd/",
+        "audio": "https://example.com/audio/pride.mp3",
+        "partsOfSpeech": [
+            {
+                "partOfSpeech": "noun",
+                "meanings": [
+                    {
+                        "en": "a group of lions that live and hunt together",
+                        "vi": "một nhóm sư tử sống và săn mồi cùng nhau",
+                        "examples": [
+                            "The pride moved silently through the tall grass, stalking their prey.",
+                            "A pride of lions can include up to three males and a dozen females."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "phrasalVerbs": [],
+        "synonyms": [
+            {
+                "slug": "group",
+                "synonym": "group"
+            },
+            {
+                "slug": "pack",
+                "synonym": "pack"
+            }
+        ],
+        "antonyms": [],
+        "idioms": [],
+        "collocations": [
+            {
+                "collocation": "a pride of lions",
+                "meanings": [
+                    {
+                        "en": "a group of lions",
+                        "vi": "một bầy sư tử",
+                        "examples": [
+                            "We saw a pride of lions resting under the trees during our safari."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

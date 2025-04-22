@@ -1,0 +1,44 @@
+[
+    {
+      "slug": "parts-of-speech",
+      "categorySlug": "grammar",
+      "title": "Parts of speech",
+      "posts": [
+        { "slug": "noun", "title": "Noun" },
+        { "slug": "noun-phrase", "title": "Noun phrase" },
+        { "slug": "countable-noun-and-uncountable-noun", "title": "Countable & Uncountable" },
+        { "slug": "singular-noun-and-plural-noun", "title": "Singular & Plural noun" },
+        { "slug": "pronouns", "title": "Pronouns" },
+        { "slug": "adjective", "title": "Adjective" },
+        { "slug": "adverb", "title": "Adverb" },
+        { "slug": "verb", "title": "Verb" },
+        { "slug": "preposition", "title": "Preposition" },
+        { "slug": "conjunction", "title": "Conjunction" },
+        { "slug": "article-a-an", "title": "Article a-an" },
+        { "slug": "article-the", "title": "Article the" },
+        { "slug": "enough-too", "title": "Enough - Too" },
+        { "slug": "participles", "title": "Participles" },
+        { "slug": "so-such", "title": "So - Such" },
+        { "slug": "prefix-suffix", "title": "Prefix - Suffix" }
+      ]
+    },
+    {
+      "slug": "tense",
+      "categorySlug": "grammar",
+      "title": "Tense",
+      "posts": [
+        { "slug": "simple-present", "title": "Simple present" },
+        { "slug": "present-continuous", "title": "Present continuous" },
+        { "slug": "present-perfect", "title": "Present perfect" },
+        { "slug": "present-perfect-continuous", "title": "Present perfect continuous" },
+        { "slug": "past-simple", "title": "Past simple" },
+        { "slug": "past-continuous", "title": "Past continuous" },
+        { "slug": "past-perfect", "title": "Past perfect" },
+        { "slug": "past-perfect-continuous", "title": "Past perfect continuous" },
+        { "slug": "simple-future", "title": "Simple future" },
+        { "slug": "future-continuous", "title": "Future continuous" },
+        { "slug": "future-perfect", "title": "Future perfect" },
+        { "slug": "future-perfect-continuous", "title": "Future perfect continuous" }
+      ]
+    }
+]
