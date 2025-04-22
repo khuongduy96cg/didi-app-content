@@ -2,21 +2,60 @@
     {
         "slug": "noun",
         "sourceUrl": "grammar/noun",
-        "published": true
+        "published": true,
+        "title": "Nouns",
+        "description": "",
+        "author": "duyphk",
+        "date": "2025-04-17",
+        "tags": [
+            "English",
+            "Grammar"
+        ],
+        "categorySlug": "grammar"
     },
     {
         "slug": "noun-what",
         "sourceUrl": "grammar/noun-what",
-        "published": true
+        "published": true,
+        "title": "What is a Noun?",
+        "description": "",
+        "author": "duyphk",
+        "date": "2025-04-17",
+        "tags": [
+            "English",
+            "Grammar",
+            "Noun"
+        ],
+        "categorySlug": "grammar"
     },
     {
         "slug": "nouns-types",
         "sourceUrl": "grammar/nouns-types",
-        "published": true
+        "published": true,
+        "title": "Nouns Types",
+        "description": "",
+        "author": "duyphk",
+        "date": "2025-04-21",
+        "tags": [
+            "English",
+            "Grammar",
+            "Noun"
+        ],
+        "categorySlug": "grammar"
     },
     {
         "slug": "master-prose-components",
         "sourceUrl": "master-prose-components",
-        "published": true
+        "published": true,
+        "title": "Master prose components",
+        "description": "meta description of the page",
+        "author": "duyphk",
+        "date": "2025-04-16",
+        "tags": [
+            "Nuxt",
+            "Nuxt Content",
+            "Typography"
+        ],
+        "categorySlug": ""
     }
 ]
