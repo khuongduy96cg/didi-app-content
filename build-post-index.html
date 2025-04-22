@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Build Category Index</title>
+</head>
+<body>
+  <h1>Build Category Index</h1>
+  <button id="buildButton">Build Index</button>
+
+  <script>
+    document.getElementById('buildButton').addEventListener('click', async () => {
+      const index = {};
+
+      const files = [
+        'category-1.json',
+        'category-2.json',
+        'category-3.json',  // Thêm tất cả file JSON vào đây
+        // ...
+      ];
+
+      for (const file of files) {
+        const response = await fetch(file);
+        const items = await response.json();
+
+        items.forEach((item) => {
+          if (item.slug) {
+            index[item.slug] = file;
+          }
+        });
+      }
+
+      const indexFile = new Blob([JSON.stringify(index, null, 2)], { type: 'application/json' });
+      const downloadLink = document.createElement('a');
+      downloadLink.href = URL.createObjectURL(indexFile);
+      downloadLink.download = 'category-index.json';
+      downloadLink.click();
+    });
+  </script>
+</body>
+</html>
