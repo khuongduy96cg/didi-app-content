@@ -1,8 +1,18 @@
 {
-    "default": {
-        "noun-1": "post-1.json",
-        "noun-what-2": "post-1.json",
-        "nouns-types-3": "post-1.json",
-        "master-prose-components-4": "post-1.json"
-    }
+  "noun-1": {
+    "fileName": "post-1.json",
+    "totalItems": 4
+  },
+  "noun-what-2": {
+    "fileName": "post-1.json",
+    "totalItems": 4
+  },
+  "nouns-types-3": {
+    "fileName": "post-1.json",
+    "totalItems": 4
+  },
+  "master-prose-components-4": {
+    "fileName": "post-1.json",
+    "totalItems": 4
+  }
 }
