@@ -1,6 +1,7 @@
 [
     {
-        "slug": "noun",
+        "id": 1,
+        "slug": "noun-1",
         "sourceUrl": "grammar/noun",
         "published": true,
         "title": "Nouns",
@@ -14,7 +15,8 @@
         "categorySlug": "grammar"
     },
     {
-        "slug": "noun-what",
+        "id": 2,
+        "slug": "noun-what-2",
         "sourceUrl": "grammar/noun-what",
         "published": true,
         "title": "What is a Noun?",
@@ -29,7 +31,8 @@
         "categorySlug": "grammar"
     },
     {
-        "slug": "nouns-types",
+        "id": 3,
+        "slug": "nouns-types-3",
         "sourceUrl": "grammar/nouns-types",
         "published": true,
         "title": "Nouns Types",
@@ -44,7 +47,8 @@
         "categorySlug": "grammar"
     },
     {
-        "slug": "master-prose-components",
+        "id": 4,
+        "slug": "master-prose-components-4",
         "sourceUrl": "master-prose-components",
         "published": true,
         "title": "Master prose components",
