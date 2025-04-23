@@ -4,7 +4,7 @@
       "categorySlug": "grammar",
       "title": "Parts of speech",
       "posts": [
-        { "slug": "noun", "title": "Noun" },
+        { "slug": "noun-1", "title": "Noun" },
         { "slug": "noun-phrase", "title": "Noun phrase" },
         { "slug": "countable-noun-and-uncountable-noun", "title": "Countable & Uncountable" },
         { "slug": "singular-noun-and-plural-noun", "title": "Singular & Plural noun" },

@@ -1,6 +1,6 @@
 ---
 published: true
-slug: 'nouns-types'
+slug: 'nouns-types-3'
 title: 'Nouns Types'
 description: ''
 author: 'duyphk'

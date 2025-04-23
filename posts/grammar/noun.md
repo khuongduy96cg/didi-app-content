@@ -1,6 +1,6 @@
 ---
 published: true
-slug: 'noun'
+slug: 'noun-1'
 title: 'Nouns'
 description: ''
 author: 'duyphk'
@@ -17,11 +17,11 @@ Or ***human being***. A human being (n) is something you are (v).
 
 These pages explain more about the grammar of nouns and offer example sentences, quizzes and songs.
 
-##### [What is a Noun?](/grammar/noun-what)
+##### [What is a Noun?](/grammar/noun-what-2)
 
 With [What is a Noun? Quiz](https://www.englishclub.com/grammar/noun-what-quiz.php)
 
-##### [Noun Types](https://www.englishclub.com/grammar/nouns-types.php)
+##### [Noun Types](/grammar/nouns-types-3)
 
 Common nouns and proper nouns, concrete nouns and abstract nouns, countable and uncountable, collective nouns, compound nouns
 

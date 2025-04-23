@@ -1,6 +1,6 @@
 ---
 published: true
-slug: 'noun-what'
+slug: 'noun-what-2'
 title: 'What is a Noun?'
 description: ''
 author: 'duyphk'
