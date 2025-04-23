@@ -40,5 +40,13 @@
         { "slug": "future-perfect", "title": "Future perfect" },
         { "slug": "future-perfect-continuous", "title": "Future perfect continuous" }
       ]
+    },
+    {
+      "slug": "family",
+      "categorySlug": "vocabulary",
+      "title": "Family",
+      "posts": [
+        { "slug": "family-members-5", "title": "Family members" }
+      ]
     }
 ]

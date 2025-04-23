@@ -61,5 +61,21 @@
             "Typography"
         ],
         "categorySlug": ""
+    },
+    {
+        "id": 5,
+        "slug": "family-members-5",
+        "sourceUrl": "vocabulary/family-members-vocabulary",
+        "published": true,
+        "title": "Family members vocabulary",
+        "description": "",
+        "author": "duyphk",
+        "date": "2025-04-23",
+        "tags": [
+            "English",
+            "Vocabulary",
+            "Family"
+        ],
+        "categorySlug": ""
     }
 ]
