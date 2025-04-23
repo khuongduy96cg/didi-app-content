@@ -1,5 +1,3 @@
-# Từ Vựng Về Gia Đình Trong Tiếng Anh
-
 ## Thành viên trực hệ
 
 ### Cha mẹ:
