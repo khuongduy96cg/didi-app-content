@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Oxford Learners Dictionaries",
+        "description": "",
+        "url": "https://www.oxfordlearnersdictionaries.com/"
+    },
+    {
+        "name": "Urban Dictionary",
+        "description": "",
+        "url": "https://www.urbandictionary.com/"
+    },
+    {
+        "name": "Elllo",
+        "description": "",
+        "url": "https://elllo.org/"
+    },
+    {
+        "name": "Youglish",
+        "description": "",
+        "url": "https://youglish.com/"
+    },
+    {
+        "name": "English Page",
+        "description": "",
+        "url": "https://www.englishpage.com/"
+    },
+    {
+        "name": "Agenda Web",
+        "description": "",
+        "url": "https://agendaweb.org/"
+    },
+    {
+        "name": "ESL Fast",
+        "description": "",
+        "url": "https://www.eslfast.com/"
+    },
+    {
+        "name": "Listen And Write",
+        "description": "",
+        "url": "https://www.listen-and-write.com/"
+    }
+]
