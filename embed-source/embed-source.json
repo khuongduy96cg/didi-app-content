@@ -38,5 +38,15 @@
         "name": "Listen And Write",
         "description": "",
         "url": "https://www.listen-and-write.com/"
+    },
+    {
+        "name": "JLPT Sensei",
+        "description": "",
+        "url": "https://jlptsensei.com/"
+    },
+    {
+        "name": "Kanshudo",
+        "description": "",
+        "url": "https://www.kanshudo.com/"
     }
 ]
