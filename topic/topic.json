@@ -1,0 +1,16 @@
+{
+    "body": [
+        {
+            "slug": "english",
+            "title": "English"
+        },
+        {
+            "slug": "japanese",
+            "title": "Japanese"
+        },
+        {
+            "slug": "programming",
+            "title": "Programming"
+        }
+    ]
+}

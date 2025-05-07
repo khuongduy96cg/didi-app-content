@@ -4,7 +4,9 @@ const path = require("path");
 const partitionDirectory = "./partition";
 const files = fs.readdirSync(partitionDirectory);
 
-const allPosts = [];
+const allPosts = {
+  body: [],
+};
 const index = {};
 
 files.forEach((file) => {
@@ -13,16 +15,17 @@ files.forEach((file) => {
 
     // Đọc và phân tích từng file JSON
     const raw = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    const body = raw.body || [];
 
     // Thêm dữ liệu từ file vào mảng chung
-    allPosts.push(...raw);
+    allPosts.body.push(...body);
 
-    raw.forEach((post) => {
+    body.forEach((post) => {
       // Ghi thông tin về file vào index
       const key = post.slug;
       index[key] = {
         fileName: file,
-        totalItems: raw.length,
+        totalItems: body.length,
       };
     });
   }

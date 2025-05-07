@@ -1,57 +1,127 @@
-[
-    {
-        "name": "Oxford Learners Dictionaries",
-        "description": "",
-        "url": "https://www.oxfordlearnersdictionaries.com/"
-    },
-    {
-        "name": "Urban Dictionary",
-        "description": "",
-        "url": "https://www.urbandictionary.com/"
-    },
-    {
-        "name": "DailyDictation",
-        "description": "",
-        "url": "https://dailydictation.com/"
-    },
-    {
-        "name": "Elllo",
-        "description": "",
-        "url": "https://elllo.org/"
-    },
-    {
-        "name": "Youglish",
-        "description": "",
-        "url": "https://youglish.com/"
-    },
-    {
-        "name": "English Page",
-        "description": "",
-        "url": "https://www.englishpage.com/"
-    },
-    {
-        "name": "Agenda Web",
-        "description": "",
-        "url": "https://agendaweb.org/"
-    },
-    {
-        "name": "ESL Fast",
-        "description": "",
-        "url": "https://www.eslfast.com/"
-    },
-    {
-        "name": "Listen And Write",
-        "description": "",
-        "url": "https://www.listen-and-write.com/"
-    },
-    {
-        "name": "JLPT Sensei",
-        "description": "",
-        "url": "https://jlptsensei.com/"
-    },
-    {
-        "name": "Kanshudo",
-        "description": "",
-        "url": "https://www.kanshudo.com/"
-    }
-]
+{
+    "body": [
+        {
+            "name": "Oxford Learners Dictionaries",
+            "description": "",
+            "url": "https://www.oxfordlearnersdictionaries.com/",
+            "topic": "english",
+            "categories": [
+                "vocabulary"
+            ]
+        },
+        {
+            "name": "Urban Dictionary",
+            "description": "",
+            "url": "https://www.urbandictionary.com/",
+            "topic": "english",
+            "categories": [
+                "vocabulary"
+            ]
+        },
+        {
+            "name": "DailyDictation",
+            "description": "",
+            "url": "https://dailydictation.com/",
+            "topic": "english",
+            "categories": [
+                "grammar",
+                "vocabulary",
+                "listening",
+                "dictation"
+            ]
+        },
+        {
+            "name": "Grammarism",
+            "description": "",
+            "url": "https://www.grammarism.com/",
+            "topic": "english",
+            "categories": [
+                "grammar"
+            ]
+        },
+        {
+            "name": "Elllo",
+            "description": "",
+            "url": "https://elllo.org/",
+            "topic": "english",
+            "categories": [
+                "grammar"
+            ]
+        },
+        {
+            "name": "Youglish",
+            "description": "",
+            "url": "https://youglish.com/",
+            "topic": "english",
+            "categories": [
+                "grammar",
+                "vocabulary",
+                "listening"
+            ]
+        },
+        {
+            "name": "English Page",
+            "description": "",
+            "url": "https://www.englishpage.com/",
+            "topic": "english",
+            "categories": [
+                "grammar",
+                "vocabulary"
+            ]
+        },
+        {
+            "name": "Agenda Web",
+            "description": "",
+            "url": "https://agendaweb.org/",
+            "topic": "english",
+            "categories": [
+                "grammar",
+                "exercices"
+            ]
+        },
+        {
+            "name": "ESL Fast",
+            "description": "",
+            "url": "https://www.eslfast.com/",
+            "topic": "english",
+            "categories": [
+                "grammar",
+                "exercices"
+            ]
+        },
+        {
+            "name": "Listen And Write",
+            "description": "",
+            "url": "https://www.listen-and-write.com/",
+            "topic": "english",
+            "categories": [
+                "grammar",
+                "vocabulary",
+                "listening",
+                "dictation"
+            ]
+        },
+        {
+            "name": "JLPT Sensei",
+            "description": "",
+            "url": "https://jlptsensei.com/",
+            "topic": "japanese",
+            "categories": [
+                "grammar",
+                "vocabulary",
+                "kanji"
+            ]
+        },
+        {
+            "name": "Kanshudo",
+            "description": "",
+            "url": "https://www.kanshudo.com/",
+            "topic": "japanese",
+            "categories": [
+                "grammar",
+                "vocabulary",
+                "kanji"
+            ]
+        }
+    ]
+}
