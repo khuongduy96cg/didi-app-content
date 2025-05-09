@@ -17,9 +17,9 @@ The simple definition is: **a person, place or thing**. Here are some examples:
 - place: home, office, town, countryside, America
 - thing: table, car, banana, money, music, love, dog, monkey
 
-<content-high-light type="success" title="💡 Tip">
+<callout type="success" title="💡 Tip">
     Note that any of the above can also be referred to by a pronoun. And note that names like John or America are called "proper nouns".
-</content-high-light>
+</callout>
 
 The problem with the simple definition above is that it does not explain why "love" is a noun but can also be a verb.
 

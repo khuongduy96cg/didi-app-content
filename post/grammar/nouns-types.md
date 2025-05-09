@@ -135,8 +135,8 @@ Examples: *cat food, blackboard, breakfast, full moon, washing machine, software
 With [Compound Nouns Quiz](https://www.englishclub.com/grammar/nouns-compound-quiz.php)
 
 
-<content-high-light type="success" title="💡 Tip">
+<callout type="success" title="💡 Tip">
 Note that all nouns are more than one type. For example, **common nouns** can be **concrete nouns** or **abstract nouns**. (The **common noun** *danger* is an **abstract noun**.)
 
 And the same noun can change its type according to meaning. For example, the noun *light* can be **uncountable** (light in general) or **countable** (lamp).
-</content-high-light>
+</callout>
