@@ -122,6 +122,18 @@
                 "vocabulary",
                 "kanji"
             ]
+        },
+        {
+            "name": "JLPT 247",
+            "description": "",
+            "url": "https://jlpt247.com/",
+            "topic": "japanese",
+            "categories": [
+                "testing",
+                "grammar",
+                "kanji",
+                "vocabulary"
+            ]
         }
     ]
 }
