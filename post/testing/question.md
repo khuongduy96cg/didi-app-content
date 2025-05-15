@@ -1,1 +1,1 @@
-<mcqembed1 question="Day la question" options="hihi,haha,hoho,hehe" correct="2" ></mcqembed1>
+<mcq1 question="Day la question" options="hihi,haha,hoho,hehe" correct="2" ></mcq1>
