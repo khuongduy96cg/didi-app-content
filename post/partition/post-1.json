@@ -93,6 +93,24 @@
             "categories": [
                 "vocabulary"
             ]
+        },
+        {
+            "id": 6,
+            "slug": "question-6",
+            "sourceUrl": "testing/question",
+            "published": true,
+            "title": "Testing question template",
+            "description": "Testing question template",
+            "author": "duyphk",
+            "date": "2025-05-15",
+            "tags": [
+                "English",
+                "Testing"
+            ],
+            "topic": "english",
+            "categories": [
+                "exercices"
+            ]
         }
     ]
 }
