@@ -5,3 +5,5 @@
 <fill-in-the-blank question="3. She ____ a new bike." corrects="has" ></fill-in-the-blank>
 
 <fill-in-the-blank question="4. She go to school every day. (go)" corrects="goes" ></fill-in-the-blank>
+
+<fill-in-the-blank question="5. is / my / this / pencil" corrects="This is my pencil.,this is my pencil.,This is my pencil,this is my pencil" ></fill-in-the-blank>
