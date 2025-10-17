@@ -31,6 +31,19 @@
             ]
         },
         {
+            "name": "Esol Courses",
+            "description": "",
+            "url": "https://esolcourses.com/",
+            "topic": "english",
+            "categories": [
+                "grammar",
+                "vocabulary",
+                "listening",
+                "reading",
+                "writing"
+            ]
+        },
+        {
             "name": "Grammarism",
             "description": "",
             "url": "https://www.grammarism.com/",
